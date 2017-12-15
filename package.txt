@@ -1,0 +1,5 @@
+NAME=xz
+VERSION=5.2.3
+REVISION=1
+SRC=http://tukaani.org/xz/xz-5.2.3.tar.xz
+SRCMD5=60fb79cab777e3f71ca43d298adacbd5
