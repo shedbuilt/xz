@@ -1,5 +1,5 @@
 NAME=xz
 VERSION=5.2.3
-REVISION=4
+REVISION=1
 SRC=https://downloads.sourceforge.net/project/lzmautils/xz-5.2.3.tar.xz
 SRCMD5=60fb79cab777e3f71ca43d298adacbd5
