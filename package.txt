@@ -1,5 +1,7 @@
 NAME=xz
-VERSION=5.2.3
+VERSION=5.2.4
 REVISION=1
-SRC=https://downloads.sourceforge.net/project/lzmautils/xz-5.2.3.tar.xz
-SRCMD5=60fb79cab777e3f71ca43d298adacbd5
+SRC=https://tukaani.org/xz/xz-5.2.4.tar.xz
+SRCMD5=003e4d0b1b1899fc6e3000b24feddf7c
+OPTIONS=toolchain|bootstrap|release (docs)
+DEFAULTS=release docs
